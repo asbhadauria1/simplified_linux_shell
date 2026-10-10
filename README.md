@@ -1,6 +1,6 @@
 # Simplified Linux Shell
 
-A lightweight command-line shell implemented in C for **COMP3511: Operating Systems** at the Hong Kong University of Science and Technology (HKUST).
+A lightweight command-line shell implemented in C for **COMP3511: Operating Systems** at The Hong Kong University of Science and Technology (HKUST).
 
 The project explores Linux process management, POSIX system calls, inter-process communication, and file descriptor manipulation by implementing core shell functionality.
 
