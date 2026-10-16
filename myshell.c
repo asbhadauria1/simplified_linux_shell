@@ -3,7 +3,6 @@
     PA1: Simplified Linux Shell (MyShell)
 
     Your name: BHADAURIA, Aditya Singh
-    Your ITSC email: asbhadauria@connect.ust.hk
 
     I declare that I am not involved in plagiarism
     I understand that both parties (i.e., students providing the codes and students copying the codes) will receive 0 marks.
